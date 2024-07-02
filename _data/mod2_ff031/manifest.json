@@ -304,5 +304,115 @@
           }
         ]
       }
-    ]
-} 
+    ],
+    "structures": [
+    {
+      "type": "Range",
+      "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/1",
+      "label": {
+        "en": [
+          "Furious Flower Poetry Center: African American Poetry and the Vernacular Matrix Part 3, 9/29/1994"
+        ]
+      },
+      "items": [
+        {
+          "type": "Range",
+          "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/2",
+          "label": {
+            "en": [
+              "Part 3"
+            ]
+          },
+          "items": [
+            {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/3",
+              "label": {
+                "en": [
+                  "Sherley Anne Williams speaks"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas/1#t=0.0,1100.0"
+                }
+              ]
+            },
+            {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/4",
+              "label": {
+                "en": [
+                  "Alvin Aubert speaks"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas/1#t=1100.0,1185.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/5",
+             			"label": {
+                		"en": [
+                  		"Gabbin instructs panelists"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas/1#t=1185.0,1273.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/6",
+             			"label": {
+                		"en": [
+                  		"Stover speaks to panelists"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas/1#t=1273.0,1317.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/7",
+             			"label": {
+                		"en": [
+                  		"Alexander replies to Stover"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas/1#t=1317.0,1461.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/range/8",
+             			"label": {
+                		"en": [
+                  		"Traylor speaks"
+                ]
+              },
+            "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas/1#t=1461.0,3490.0"
+                }
+              ]
+            }
+          ]
+        }	
