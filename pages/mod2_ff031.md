@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: MOD2_FF031
 manifest_name: mod2_ff031
 permalink: mod2_ff031
