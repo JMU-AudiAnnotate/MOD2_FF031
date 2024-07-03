@@ -22,7 +22,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1.05,9.84"
+          "t": "1,9"
         }
       }
     },
@@ -44,7 +44,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1103.02,1115.92"
+          "t": "1103,1115"
         }
       }
     },
@@ -66,7 +66,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1184.64,1189.11"
+          "t": "1184,1189"
         }
       }
     },
@@ -88,7 +88,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1189.89,1204.41"
+          "t": "1189,1204"
         }
       }
     },
@@ -110,7 +110,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1273.86,1288.53"
+          "t": "1273,1288"
         }
       }
     },
@@ -132,7 +132,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1317.42,1331.43"
+          "t": "1317,1331"
         }
       }
     },
@@ -154,7 +154,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1432.86,1442.16"
+          "t": "1432,1442"
         }
       }
     },
@@ -176,7 +176,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1461.78,1478.46"
+          "t": "1461,1478"
         }
       }
     },
@@ -198,7 +198,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1534.32,1535.55"
+          "t": "1534,1535"
         }
       }
     },
@@ -220,7 +220,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1536.18,1546.14"
+          "t": "1536,1546"
         }
       }
     },
@@ -242,7 +242,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1656.54,1664.07"
+          "t": "1656,1664"
         }
       }
     },
@@ -264,7 +264,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1711.11,1725.18"
+          "t": "1711,1725"
         }
       }
     },
@@ -286,7 +286,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1780.56,1789.05"
+          "t": "1780,1789"
         }
       }
     },
@@ -308,7 +308,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1799.61,1810.29"
+          "t": "1799,1810"
         }
       }
     },
@@ -330,7 +330,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1837.41,1838.85"
+          "t": "1837,1838"
         }
       }
     },
@@ -352,7 +352,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1838.21,1847.33"
+          "t": "1838,1847"
         }
       }
     },
@@ -374,7 +374,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1847.97,1858.92"
+          "t": "1847,1858"
         }
       }
     },
@@ -396,7 +396,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2005.0,2020.81"
+          "t": "2005,2020"
         }
       }
     },
@@ -418,7 +418,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2111.11,2121.34"
+          "t": "2111,2121"
         }
       }
     },
@@ -440,7 +440,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2190.82,2204.35"
+          "t": "2190,2204"
         }
       }
     },
@@ -462,7 +462,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2279.38,2287.93"
+          "t": "2279,2287"
         }
       }
     },
@@ -484,7 +484,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2290.86,2298.72"
+          "t": "2290,2298"
         }
       }
     },
@@ -506,7 +506,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2305.65,2309.19"
+          "t": "2305,2309"
         }
       }
     },
@@ -528,7 +528,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2309.82,2321.61"
+          "t": "2309,2321"
         }
       }
     },
@@ -550,7 +550,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2522.04,2524.86"
+          "t": "2522,2524"
         }
       }
     },
@@ -572,7 +572,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2525.4,2526.36"
+          "t": "2525,2526"
         }
       }
     },
@@ -594,7 +594,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2526.36,2531.16"
+          "t": "2526,2531"
         }
       }
     },
@@ -616,7 +616,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2531.49,2531.82"
+          "t": "2531,2531"
         }
       }
     },
@@ -638,7 +638,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2532.87,2533.8"
+          "t": "2532,2533"
         }
       }
     },
@@ -660,7 +660,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2536.29,2554.14"
+          "t": "2536,2554"
         }
       }
     },
@@ -682,7 +682,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2599.47,2604.3"
+          "t": "2599,2604"
         }
       }
     },
@@ -704,7 +704,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2604.75,2617.35"
+          "t": "2604,2617"
         }
       }
     },
@@ -726,7 +726,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2618.64,2635.95"
+          "t": "2618,2635"
         }
       }
     },
@@ -748,7 +748,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2684.55,2698.02"
+          "t": "2684,2698"
         }
       }
     },
@@ -770,7 +770,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2837.31,2848.44"
+          "t": "2837,2848"
         }
       }
     },
@@ -792,7 +792,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2904.6,2907.63"
+          "t": "2904,2907"
         }
       }
     },
@@ -814,7 +814,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2907.84,2924.61"
+          "t": "2907,2924"
         }
       }
     },
@@ -836,7 +836,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3047.22,3059.73"
+          "t": "3047,3059"
         }
       }
     },
@@ -858,7 +858,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3109.74,3121.89"
+          "t": "3109,3121"
         }
       }
     },
@@ -880,7 +880,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3180.13,3193.24"
+          "t": "3180,3193"
         }
       }
     },
@@ -902,7 +902,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3217.8,3219.24"
+          "t": "3217,3219"
         }
       }
     },
@@ -924,7 +924,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3220.26,3230.19"
+          "t": "3220,3230"
         }
       }
     },
@@ -946,7 +946,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3247.26,3255.81"
+          "t": "3247,3255"
         }
       }
     },
@@ -968,7 +968,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3343.53,3353.01"
+          "t": "3343,3353"
         }
       }
     },
@@ -990,7 +990,7 @@
         "source": "https://JMU-AudiAnnotate.github.io/MOD2_FF031/mod2_ff031/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "3417.63,3423.54"
+          "t": "3417,3423"
         }
       }
     }
